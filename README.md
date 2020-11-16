@@ -2,6 +2,7 @@
 *By Matt Kenney and Soo Hwan Park*
 
 Final project for "Data Science for Health" course at Dartmouth.
+All notebooks are stored here. Note that data for the project is not tracked in Git, since file sizes are larger than GitHub's limit.
 
 
 **Notebooks**:
